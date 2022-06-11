@@ -2,7 +2,7 @@
 
 This cross-platform mobile application lets you read news in real time. Default Country news is set to United States. You can change country news in the app.js file.
 
-#Installation
+# Installation
 
 Please set up a React Native development environment if you have not already done so.
 You will also need to install react-native-snap-carousel, @expo/vector-icons and axios.
