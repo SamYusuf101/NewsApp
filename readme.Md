@@ -26,5 +26,5 @@ npm react-native run-android
 
 # Ideas for Future Development
 *Add a Splash Screen.\
-*Add an app icon.
+
 
