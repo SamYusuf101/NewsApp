@@ -18,12 +18,7 @@ const DetailsHeader = ({data, navigation}) => (
 const Details = ({ route, navigation }) => {
   const { data } = route.params;
   return (
-    <SafeAreaView style={{ flex: 1 }}>
-      <FocusedStatusBar
-        barStyle="dark-content"
-        backgroundColor="transparent"
-        translucent={true}
-      />
+    
       
         <RectButton minWidth={170} fontSize={SIZES.large} {...SHADOWS.dark} />
 
