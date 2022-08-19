@@ -12,14 +12,7 @@ import {
 } from '../Components';
 
 const DetailsHeader = ({data, navigation}) => (
-  <View style={{ width: '100%', height:373}}>
-  <Image
-  source={data.image}
-  resizeMode="cover"
-  style={{width: '100%', height:'100%'}}
-  />
-  </View>
-
+  
 )
 
 const Details = ({ route, navigation }) => {
