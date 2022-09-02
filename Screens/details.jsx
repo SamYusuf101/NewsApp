@@ -1,7 +1,7 @@
 import { SafeAreaView, View, Text, Image, StatusBar, FlatList } from 'react-native';
 import React from 'react';
 import { COLORS, SIZES, SHADOWS, assets } from '../constants';
-import { NFTData } from '../constants';
+import { NFTData } from '../';
 import {
   CircleButton,
   RectButton,
