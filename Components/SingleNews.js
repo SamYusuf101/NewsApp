@@ -52,7 +52,7 @@ const SingleNews = ({ item, index }) => {
                 '{item?.content?.slice(0, 45)}...'
                 </Text>
                 <Text style={{fontSize:17, color:"white", fontWeight:'bold'}}>
-                Read More
+                Read More.
                 </Text>
                 
                 </TouchableOpacity>
