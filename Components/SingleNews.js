@@ -51,7 +51,7 @@ const SingleNews = ({ item, index }) => {
                 <Text style={{fontSize:15, color:"white"}}>
                 '{item?.content?.slice(0, 45)}...'
                 </Text>
-                <Text style={{fontSize:17, color:"white", fontWeight:'bold'}}>
+                <Text style={{fontSize:18, color:"white", fontWeight:'bold'}}>
                 Read More.
                 </Text>
                 
