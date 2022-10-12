@@ -71,7 +71,7 @@ const Details = ({ route, navigation }) => {
 
             {data.bids.length > 0 && (
               <Text style={{
-                fontSize: 20,
+                fontSize: 24,
                 color: COLORS.primary
               }}>
                 Curent Bids
