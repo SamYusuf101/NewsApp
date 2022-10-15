@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
 
     },
     content: {
-        fontSize: 18,
+        fontSize: 20,
         paddingBottom: 10
     },
     footer:{
