@@ -52,7 +52,7 @@ const handleSearch = (text) => {
         {searchResults.slice(0, 10).map((n) => (
         <TouchableOpacity
         key={n.title}
-        activeOpacity={0.7}
+        activeOpacity={0.8}
         onPress={() => handleModal(n)}
         >
         <Text
