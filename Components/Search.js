@@ -45,7 +45,7 @@ const handleSearch = (text) => {
         color:'white'
     }} 
     onChangeText={(text) => handleSearch(text)}
-    placeholder="search for news"
+    placeholder="Search for news"
     placeholderTextColor={"white"}
         />
         <View style={styles.searchResults}>
