@@ -100,7 +100,7 @@ const handleSearch = (text) => {
 const styles= StyleSheet.create ({
     search: {
         backgroundColor: "black",
-        paddingVertical:7,
+        paddingVertical:8,
         borderRadius:12,
         fontSize:13,
         marginBottom:15
