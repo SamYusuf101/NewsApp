@@ -21,7 +21,7 @@ const SingleNews = ({ item, index }) => {
             style={{
                 height: windowHeight,
                 width: windowWidth,
-                transform: [{ scaleY: -1 }],
+                transform: [{ scaleY: -2 }],
             }}>
 
             <Image
