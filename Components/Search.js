@@ -59,7 +59,7 @@ const handleSearch = (text) => {
           style={{
               ...styles.singleResult,
               backgroundColor:"black",
-              color:"white"
+              color:"blue"
           }}
         >
          {n.title}
