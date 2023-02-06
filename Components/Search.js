@@ -82,7 +82,7 @@ const handleSearch = (text) => {
           style={{ 
               position:"absolute",
               zIndex:2,
-              right:0,
+              right:1,
               margin:20,
               marginTop:60
 
@@ -90,7 +90,7 @@ const handleSearch = (text) => {
           >
           <Entypo name="circle-with-cross" size={30} color="white" />
         </TouchableOpacity>
-        <View style={{height:"70%", transform: [{ scaleY:-1}]}}>
+        <View style={{height:"60%", transform: [{ scaleY:-1}]}}>
           <SingleNews item={currentNews} />
         </View>
         </Modal>
