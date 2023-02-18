@@ -102,7 +102,7 @@ const styles= StyleSheet.create ({
         backgroundColor: "black",
         paddingVertical:8,
         borderRadius:12,
-        fontSize:13,
+        fontSize:14,
         marginBottom:15
     },
     searchResults: {
