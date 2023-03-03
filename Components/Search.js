@@ -82,7 +82,7 @@ const handleSearch = (text) => {
           style={{ 
               position:"absolute",
               zIndex:2,
-              right:1,
+              right:2,
               margin:20,
               marginTop:60
 
